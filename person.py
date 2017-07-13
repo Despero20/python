@@ -1,4 +1,11 @@
 #print hello
+
+#print("Am not the best though, but will surely make it one day")
+
+print "n\"
+
+
+
 def calculate(op1, op2, f):
     if f =="add":
         return op1 + op2
